@@ -1,18 +1,15 @@
-<style>
-  body {
-    font-family: 'UniAwf', sans-serif;
-    color: #4ecca3; /* Green color */
-  }
-</style>
+<h1 align="center">Hi 👋, I'm Eswaran S</h1>
+<h3 align="center">Full Stack Jav Developer</h3>
 
-# 💫 About Me
+- 🌱 I’m currently learning **Advance Java**
 
-<p>
-  I'm a B Tech IT student at 
-  <a href="https://pec.paavai.edu.in/" target="_blank">Paavai Engineering College</a>
-  and a Full Stack Java Developer.
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **eswar2003.it@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/EswaranDev) 
 
