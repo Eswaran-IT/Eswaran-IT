@@ -1,6 +1,6 @@
 # 💫About Me :
-Student @Paavai Engineering College
-Ful stack Java Developer
+Student @Paavai Engineering College<br>
+Full stack Java Developer
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/EswaranDev) 
