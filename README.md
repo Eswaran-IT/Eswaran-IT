@@ -1,6 +1,17 @@
-# 💫About Me :
-Student @Paavai Engineering College<br>
-Full stack Java Developer
+<style>
+  body {
+    font-family: 'UniAwf', sans-serif;
+    color: #4ecca3; /* Green color */
+  }
+</style>
+
+# 💫 About Me
+
+- B Tech IT student
+- Student at [Paavai Engineering College](#)
+- Full Stack Java Developer
+
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/EswaranDev) 
