@@ -7,11 +7,11 @@
 
 # 💫 About Me
 
-- B Tech IT student
-- Student at [Paavai Engineering College](#)
-- Full Stack Java Developer
-
-
+<p>
+  I'm a B Tech IT student at 
+  <a href="https://pec.paavai.edu.in/" target="_blank">Paavai Engineering College</a>
+  and a Full Stack Java Developer.
+</p>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/EswaranDev) 
