@@ -8,8 +8,6 @@
 ### Current :  
 - 🎓 I’m currently pursuing my final year B.Tech IT at Paavai Engineering College.    
   
-
-- 🌱 I’m currently learning Security  
   
 
 
